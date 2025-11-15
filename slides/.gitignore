@@ -1,0 +1,36 @@
+# PowerPoint temporary files
+~$*
+
+# PDF files
+*.pdf
+
+# Office auto-save files
+*.tmp
+
+# Thumbnail cache
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux
+.directory
+.Trash-*
+
+# Backup files
+*.bak
+*~
+
+# Auto-generated files
+*.log
+
